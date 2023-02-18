@@ -10,18 +10,12 @@ This is a Go program that reads data from a CSV file and outputs it in a formatt
 git clone https://github.com/example/gocsv.git
 ```
 
-2. Change into the project directory:
-
-```
-cd csv-reader
-```
-
-3. Build the program:
+2. Build the program:
 
 ```
 go build
 ```
-4. Run the program
+3. Run the program
 ```
 go run main.go
 ```
